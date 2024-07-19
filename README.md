@@ -27,4 +27,4 @@ sodium https://modrinth.com/mod/sodium/versions?g=1.20.4&l=fabric
 
 lithium https://modrinth.com/mod/lithium/versions?l=fabric&g=1.20.4
 
-hud armor https://modrinth.com/mod/simple-armor-hud/versions?g=1.20.4
+hud armor https://modrinth.com/mod/slotted-armor-hud/versions?g=1.20.4
