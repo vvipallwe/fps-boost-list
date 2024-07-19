@@ -6,6 +6,7 @@ Download fabric https://fabricmc.net/use/installer/
 Tutorial untuk tlauncher
 https://tlauncher.org/en/how-install-fabric.html
 
+
 Taruh .jar file ke dalam "mods" folder buat folder jika tidak ada folder "mods" (%appdata%Roaming\.minecraft\mods)
 
 Fabric api https://modrinth.com/mod/fabric-api/versions?g=1.20.4
