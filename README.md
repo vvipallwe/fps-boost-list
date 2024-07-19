@@ -1,7 +1,7 @@
 Pake versi 1.20.4 (stable)
 
-Downloader software untuk minecraft launcher/non tlauncher(manual install).
-Donwnload fabric https://fabricmc.net/use/installer/ Versi tlauncher ada di bawah
+Downloader software untuk minecraft launcher/non tlauncher(manual installation).
+Download fabric https://fabricmc.net/use/installer/
 
 Tutorial untuk tlauncher
 https://tlauncher.org/en/how-install-fabric.html
