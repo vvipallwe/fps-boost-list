@@ -6,4 +6,4 @@ FABRIC
 Download file nya di tab Releases
 (https://github.com/vvipallwe/fps-boost-list/releases/)
 
-Repo ini hanya untuk file sharing atau backup
+Note: Repo ini hanya untuk file sharing atau backup
